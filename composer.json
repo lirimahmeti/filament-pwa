@@ -39,7 +39,7 @@
         "filament/filament": "^3.2",
         "filament/notifications": "^3.2",
         "filament/spatie-laravel-settings-plugin": "^3.2",
-        "tomatophp/filament-settings-hub": "^1.0",
+        "tomatophp/filament-settings-hub": "^2.0.2",
         "tomatophp/console-helpers": "^1.1"
     }
 }
